@@ -1,0 +1,6 @@
+Upper Level Conf,Upper Level Term,Lower Level Conf,Lower Level Term,average_partial_lifetime,var_partial_lifetime,average_Ek,var_Ek,average_Ei,var_Ei,count
+4d95p,2[1/2]°,4d10,1S,9.0090e-08,,4.0839e+04,,0.0000e+00,,1
+4d95p,2[3/2]°,4d10,1S,7.1959e-08,3.2702e-16,3.8275e+04,8.7702e+06,0.0000e+00,0.0000e+00,2
+4d95p,2[3/2]°,4d95s,2[5/2],9.7087e-09,,3.6181e+04,,7.7550e+03,,1
+4d95p,2[5/2]°,4d95s,2[5/2],1.2987e-08,,3.7394e+04,,6.5641e+03,,1
+4d95p,2[7/2]°,4d95s,2[5/2],1.7664e-08,1.8975e-16,3.5610e+04,7.5686e+04,6.9611e+03,4.7273e+05,3
