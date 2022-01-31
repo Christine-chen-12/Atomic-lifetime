@@ -1,0 +1,100 @@
+Observed  Wavelength  Vac (nm),Ritz  Wavelength  Vac (nm),Rel.  Int. (?),Aki (s-1),Acc.,Ei  (cm-1),,Ek  (cm-1),"Lower Level  Conf., Term, J","Lower Level  Conf., Term, J","Lower Level  Conf., Term, J","Upper Level  Conf., Term, J","Upper Level  Conf., Term, J","Upper Level  Conf., Term, J",Type,TPRef.,LineRef.
+246.450,246.4497+,460,1.00e+08,,0.000,-,40 563.97,4f146s2,1S,0,4f<sup>14</sup>6s7p,1P°,1,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=tp&amp;db_id=7227&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=7227&amp;type=,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+267.196,267.1960+,390,1.43e+07,,0.000,-,37 414.59,4f146s2,1S,0,4f<sup>13</sup>(<sup>2</sup>F°)5d<sup>2</sup>6s?,°,1,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=tp&amp;db_id=7227&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=7227&amp;type=,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+287.349,,45,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+293.436,,35,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+310.074,,28,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+316.229,,28,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+323.958,,35,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+330.525,,130,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+331.941,,80,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+338.750,,140,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+341.245,,50,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+341.839,,140,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+342.604,,360,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+343.111,,240,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+345.240,,85,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+345.839,,,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+346.027,,360,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+346.437,346.43698+,2400,6.83e+07,,0.000,-,28 857.014,4f146s2,1S,0,4f<sup>13</sup>(<sup>2</sup>F°<sub>7/2</sub>)5d<sub>5/2</sub>6s<sup>2</sup>,"(7/2,5/2)°",1,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=tp&amp;db_id=7227&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=7227&amp;type=,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+351.700,,50,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+355.903,,35,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+364.815,,70,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+365.573,,90,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+370.058,,70,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+373.469,,180,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+377.010,,550,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+377.432,,80,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+379.174,,60w,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+383.991,,170,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+387.285,,340,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+390.085,,340,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+391.127,,140,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+398.799,398.79864+,32000,1.92e+08,,0.000,-,25 068.222,4f146s2,1S,0,4f<sup>14</sup>6s6p,1P°,1,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=tp&amp;db_id=7227&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=7227&amp;type=,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+399.088,399.0890+,930,,,19 710.388,-,44 760.37,4f146s6p,3P°,2,4f<sup>14</sup>6p<sup>2</sup>,3P,2,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+400.736,,50,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+405.228,,70,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+408.968,,440,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+414.907,,470,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+417.456,,120,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+421.869,,,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+423.197,,120,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+427.774,,70,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+430.597,,120,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+439.369,,60w,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+443.021,,60w,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+443.919,,440,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+448.242,,85w,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+456.395,,85w,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+457.621,457.6208+,640,,,17 992.007,-,39 838.04,4f146s6p,3P°,1,4f<sup>14</sup>6s6d,3D,2,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+458.236,,200,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+458.921,,70,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+459.083,,140,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+468.427,,40,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+478.187,,170w,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+481.643,,35,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+483.746,,40,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+489.460,,40w,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+491.236,,27,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+493.550,493.5504+,710,,,19 710.388,-,39 966.09,4f146s6p,3P°,2,4f<sup>14</sup>6s6d,3D,3,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+496.690,,140,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+506.780,,30,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+506.914,,70,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+507.434,,220,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+507.674,,50,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+519.608,,60,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+521.160,,85,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+524.411,,100,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+527.704,,150w,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+535.129,,30w,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+536.366,,30,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+548.192,,60,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+550.549,,40,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+552.454,,17,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+553.905,,85w,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+555.647,555.6481+,2400,1.15e+06,,0.000,-,17 992.007,4f146s2,1S,0,4f<sup>14</sup>6s6p,3P°,1,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=tp&amp;db_id=7227&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=7227&amp;type=,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+556.209,,35,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+556.811,,20,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+558.636,,20,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+571.999,,220,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+575.589,,10w,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+580.344,,10,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+585.451,,27,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+598.933,,17,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+605.457,,10,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+640.035,,35w,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+641.791,,35w,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+648.906,,340,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+664.355,,20,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+666.782,,180,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+667.817,,15,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+676.870,,25,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+679.960,679.9602+,690,,,17 992.007,-,32 694.692,4f146s6p,3P°,1,4f<sup>14</sup>6s7s,3S,1,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+724.441,,9w,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+730.522,,8w,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+731.305,,10w,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+735.004,,16w,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+744.828,,25,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+752.746,,30w,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+769.948,769.9487+,750,,,19 710.388,-,32 694.692,4f146s6p,3P°,2,4f<sup>14</sup>6s7s,3S,1,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
+789.508,,7,,,,,,,,,,,,,,https://physics.nist.gov/cgi-bin/ASBib1/get_ASBib_ref.cgi?db=el&amp;db_id=3475&amp;comment_code=&amp;element=Yb&amp;spectr_charge=1&amp;ref=3475&amp;type=
