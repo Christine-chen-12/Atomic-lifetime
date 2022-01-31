@@ -1,0 +1,6 @@
+Upper Level Conf,Upper Level Term,Lower Level Conf,Lower Level Term,average_partial_lifetime,re_partial_lifetime,difference
+4s4d,1D,4s4p,1P°,6.8493e-10,6.8493e-10,0.0000e+00
+4s4d,3D,4s4p,3P°,5.3518e-09,6.7260e-10,4.6792e-09
+4s4p,1P°,3d104s2,1S,5.0761e-10,5.0761e-10,0.0000e+00
+4s4p,3P°,3d104s2,1S,2.4450e-06,2.4450e-06,0.0000e+00
+4s5p,1P°,3d104s2,1S,4.5455e-08,4.5455e-08,0.0000e+00
