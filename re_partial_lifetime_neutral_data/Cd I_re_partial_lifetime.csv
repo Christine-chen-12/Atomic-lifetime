@@ -1,0 +1,9 @@
+Upper Level Conf,Upper Level Term,Lower Level Conf,Lower Level Term,average_partial_lifetime,re_partial_lifetime,difference
+4d105s5d,1D,4d105s5p,1P°,1.6949e-08,1.6949e-08,0.0000e+00
+4d105s5d,3D,4d105s5p,3P°,1.4502e-08,7.0295e-09,7.4725e-09
+4d105s5p,1P°,4d105s2,1S,1.8868e-09,1.8868e-09,0.0000e+00
+4d105s5p,3P°,4d105s2,1S,2.4631e-06,2.4631e-06,0.0000e+00
+4d105s6d,1D,4d105s5p,1P°,1.8182e-07,1.8182e-07,0.0000e+00
+4d105s6d,3D,4d105s5p,3P°,3.6961e-08,1.7908e-08,1.9053e-08
+4d105s6s,3S,4d105s5p,3P°,3.9723e-08,9.0909e-09,3.0632e-08
+4d105s7d,1D,4d105s5p,1P°,2.1277e-07,2.1277e-07,0.0000e+00
