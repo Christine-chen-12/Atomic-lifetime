@@ -1,7 +1,4 @@
 # A database of Atomic Lifetime for Neutral Atoms and Singly Charged Ions
-UCL MSc Scientific and Data Intensive Computing Research Project  
-
-Supervisor: Jonathan Tennyson
 
 ## Aims and objectives of this project
 The aim of this research project is to fill a research gap by creating a new database dedicated to storing the lifetimes of neutral atoms and singly charged ions available on the NIST website.   
